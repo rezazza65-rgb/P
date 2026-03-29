@@ -3,8 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-hysteria2://auth@65.109.178.92:443?insecure=1&sni=cdn.cloudflare.com&alpn=h3&fastopen=1&up=150&down=300#@Hddify
-hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@129.153.25.59:35000?insecure=1&sni=www.lamer.com.hk#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.6MB%2Fs
+hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@d83eb7c2-t57ls0-tdfzix-fm2v.hk2.hyhuawei.com:443?sni=d83eb7c2-t57ls0-tdfzix-fm2v.hk2.hyhuawei.com&obfs=none&insecure=1#166-%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://auth@65.109.178.92:443?insecure=1&sni=cdn.cloudflare.com&alpn=h3&fastopen=1&up=150&down=300#@Hddify
+hysteria2://bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b@fab0a2c1-t6pb40-t85e8f-141tv.hk2.hyhuawei.com:443?sni=fab0a2c1-t6pb40-t85e8f-141tv.hk2.hyhuawei.com&obfs=none&insecure=1#099-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@107.167.18.123:1743?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk&obfs=none&insecure=1#253-%F0%9F%87%BA%F0%9F%87%B8%20PO%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:59220:443?sni=Ab.ac&obfs=FnFgQIckcMRtKq7i&insecure=1#065-%F0%9F%87%B3%F0%9F%87%B1%20NL%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@134.195.101.199:443?insecure=1&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.3MB%2Fs
