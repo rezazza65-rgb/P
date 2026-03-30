@@ -3,20 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-hysteria2://e4499a62-0cfe-11eb-ad8c-f23c9164ca5d@94d84c30-t6ngg0-tpftcp-13x18.us.hyhuawei.com:443?sni=94d84c30-t6ngg0-tpftcp-13x18.us.hyhuawei.com&obfs=none&insecure=1#037-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://ca9c0c54-1513-11f0-8a7b-f23c913c8d2b@2a25ca75-t6ngg0-tdahby-1tnab.us.hyhuawei.com:443?sni=2a25ca75-t6ngg0-tdahby-1tnab.us.hyhuawei.com&obfs=none&insecure=1#134-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@us1.dexlos.com:20193?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us1.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8US_10%7C4.5MB%2Fs
+hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@us1.dexlos.com:20193?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us1.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8US_1%7C5.0MB%2Fs
+hysteria2://06bb0c42-9c60-4a2a-bc40-3e950d4c458b@hk3.jueduibupao.top:44072?insecure=1&sni=hk3.jueduibupao.top#%F0%9F%87%B2%F0%9F%87%BAMU_1%7C1.6MB%2Fs
+hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@us2.dexlos.com:20278?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us2.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8US_2%7C4.2MB%2Fs
+hysteria2://9fc87b20-8bd2-4b6e-aa29-dbb581a27262@193.122.12.150:50000?insecure=1&sni=fastcdn.hoyoverse.com#%F0%9F%87%A9%F0%9F%87%AADE_2%7C3.3MB%2Fs
 hysteria2://auth@65.109.178.92:443?insecure=1&sni=cdn.cloudflare.com&alpn=h3&fastopen=1&up=150&down=300#@Hddify
-hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk&obfs=none&insecure=1#021-%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%252540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#187-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@us2.dexlos.com:20278?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us2.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8US_9%7C7.0MB%2Fs
-hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?sni=72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com&obfs=none&insecure=1#081-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:51237:443?sni=Ab.ac&obfs=FnFgQIckcMRtKq7i&insecure=1#109-%F0%9F%87%B3%F0%9F%87%B1%20NL%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://9fc87b20-8bd2-4b6e-aa29-dbb581a27262@193.122.12.150:50000?insecure=1&sni=fastcdn.hoyoverse.com#%F0%9F%87%A9%F0%9F%87%AADE_1%7C4.6MB%2Fs
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@107.167.18.123:1743?sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk&obfs=none&insecure=1#052-%F0%9F%87%BA%F0%9F%87%B8%20PO%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk4.dexlos.com:7484?sni=hk4.dexlos.com&obfs=none&insecure=1#221-%F0%9F%87%AD%F0%9F%87%B0%20HK%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://94614d84-9986-11ee-be7f-f23c9164ca5d@68c6756a-t57ls0-t7fl9b-1q16i.us.hyhuawei.com:443?sni=68c6756a-t57ls0-t7fl9b-1q16i.us.hyhuawei.com&obfs=none&insecure=1#011-%F0%9F%87%BA%F0%9F%87%B8%20US%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://9fc87b20-8bd2-4b6e-aa29-dbb581a27262@138.2.182.211:50000?insecure=1&sni=fastcdn.hoyoverse.com#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.6MB%2Fs
 hysteria2://9fc87b20-8bd2-4b6e-aa29-dbb581a27262@89.168.32.96:50000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.3MB%2Fs
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hysteria2://9fc87b20-8bd2-4b6e-aa29-dbb581a27262@138.2.182.211:50000?insecure=1&sni=fastcdn.hoyoverse.com#%F0%9F%87%A9%F0%9F%87%AADE_1%7C3.3MB%2Fs
