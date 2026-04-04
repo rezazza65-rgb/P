@@ -3,9 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:50000-60000/?insecure=1&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&sni=Ab.ac#🏆94@oneclickvpnkeys
-hysteria2://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:49930/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://dongtaiwang.com@62.210.25.116:40022/?insecure=1&sni=www.microsoft.com#🤖21@oneclickvpnkeys
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-sg.onetaplink.app#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.0MB%2Fs
+hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk&obfs=none&insecure=1#119-%F0%9F%87%BA%F0%9F%87%B8%20US%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-sg.onetaplink.app#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.7MB%2Fs
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?obfs=none&insecure=1#039-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://990e8f34-bd4f-11ef-bdb9-f23c91cfbbc9@c189808a-t57ls0-t7uinf-i8ie.us.hyhuawei.com:443?sni=c189808a-t57ls0-t7uinf-i8ie.us.hyhuawei.com&obfs=none&insecure=1#122-%F0%9F%87%BA%F0%9F%87%B8%20US%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hysteria2://Telegram--%3E@Ln2Ray@206.71.158.23:45000?sni=gavazn.55994421.xyz&obfs=Telegram--%25253E%252540Ln2Ray&insecure=1#060-%F0%9F%87%B3%F0%9F%87%B1%20NL%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:49930/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:50000-60000/?insecure=1&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&sni=Ab.ac#🏆94@oneclickvpnkeys
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://dongtaiwang.com@62.210.25.116:40022/?insecure=1&sni=www.microsoft.com#🤖21@oneclickvpnkeys
