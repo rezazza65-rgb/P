@@ -3,5 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.85:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=maviks.eu&fp=chrome#[33851][DE][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-13][2026-08-13 00:57]
-vless://12c11e60-d800-46f3-9230-f3d63d79c986@188.114.98.68:80/?type=httpupgrade&encryption=none&host=v2ngfast.nanvrfood.ir.&path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048#[2926][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-13][2026-08-13 00:57]
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@millionaire.levikogjgfdd.ir:443?encryption=none&type=ws&host=terazhediii.info&path=/hdgrbws&security=tls&sni=terazhediii.info#[31029][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-13][2026-08-13 00:57]
+vless://c8dcbe44-5714-4f99-8d7a-aadebea34abf@91.103.140.243:443?encryption=none&fp=firefox&pbk=118rMk41g_0BeoQDR2V_1f8ABzC1WKXdolzE-LxqowM&security=reality&sid=bff835c98c&sni=www.amd.com&spx=%2FdOSQM9dA3rf8Ag2&type=tcp#[33925][FI][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-13][2026-08-13 00:57]
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?type=tcp&headerType=none&security=none&encryption=none#[10872][TW][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-13][2026-08-13 00:57]
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.115:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#[34836][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-13][2026-08-13 00:57]
